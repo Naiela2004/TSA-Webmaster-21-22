@@ -1,0 +1,13 @@
+body {
+    background-color: bisque;
+}
+
+nav {
+    
+    background-color: chocolate;
+    color: rgb(255, 247, 238);
+}
+
+#navmenu {
+    text-align: center;
+}
