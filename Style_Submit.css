@@ -1,0 +1,40 @@
+body {
+  background-color: bisque;
+}
+
+nav {
+  background-color: chocolate;
+  color: rgb(255, 247, 238);
+}
+
+#navmenu {
+  text-align: center;
+  font-size: large;
+}
+#logo {
+  width: 142.5px;
+  height: 142.5px;
+  margin-left: -100px;
+  float: left;
+}
+
+h1 {
+  text-align: center;
+}
+#form {
+  text-align: center;
+  color: red;
+}
+input {
+  padding: 5px 10px;
+}
+#rules {
+  white-space: pre-line;
+  text-align: left;
+  font-size: 17.5px;
+  padding-left: 80px;
+}
+label {
+  display: block;
+  text-align: center;
+}
